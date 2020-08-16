@@ -1,0 +1,2 @@
+# migratesharepointlistitemsandattachments
+Investigate the total number of lits and lists items via one of the scripts. Then migrate the lists including their attachments from one sharepoint site to another with the other script.
